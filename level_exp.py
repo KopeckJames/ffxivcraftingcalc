@@ -1,0 +1,14 @@
+level_91 = 13278000
+level_92 = 13659000
+level_93 = 15348000
+level_94 = 15912000
+level_95 = 17534000
+level_96 = 18263000
+level_97 = 20322000
+level_98 = 20957000
+level_99 = 22979000
+level_100= 23789000
+
+XIVAPI = "fac0dca6cf8f4449b6d683bd00251e7bc1703f2786964cd59374d150137977db"
+xivapi_url_test ="https://xivapi.com/item/1675?private_key=fac0dca6cf8f4449b6d683bd00251e7bc1703f2786964cd59374d150137977db"
+
